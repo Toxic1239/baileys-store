@@ -41,7 +41,7 @@
     "@types/jest": "^30.0.0",
     "@types/node": "^16.0.0",
     "@types/ws": "^8.0.0",
-    "baileys": "^6.7.19",
+    "baileys": "^6.7.18",
     "conventional-changelog-cli": "^2.2.2",
     "eslint": "^9.31.0",
     "@whiskeysockets/eslint-config": "github:whiskeysockets/eslint-config",
